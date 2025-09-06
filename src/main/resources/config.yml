@@ -1,0 +1,10 @@
+# Item Swap Challenge - Konfiguration
+
+# Nachricht, wenn beide Spieler sterben
+death-message: "§cBeide Spieler sind gestorben, da das falsche Item eingesammelt wurde!"
+
+# Nachricht, wenn die Challenge erfolgreich weitergeht
+success-message: "§aRichtiges Item eingesammelt!"
+
+# Nachricht, wenn die Challenge gestartet wird
+start-message: "§eDie Item Swap Challenge beginnt!"
