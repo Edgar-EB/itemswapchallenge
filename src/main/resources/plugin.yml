@@ -1,0 +1,12 @@
+name: ItemSwapChallenge
+main: com.example.itemswap.ItemSwapPlugin
+version: 1.1.0
+api-version: 1.21
+commands:
+  startchallenge:
+    description: Startet die Item Swap Challenge
+    usage: /startchallenge <Spieler1> <Spieler2>
+permissions:
+  itemswap.admin:
+    description: Erlaubt das Starten der Challenge
+    default: op
